@@ -1,4 +1,5 @@
  Attention-Based Hybrid CNN for Breast Cancer Detection using Thermography
+This repository contains the implementation of an attention-based hybrid deep learning frameworkfor breast cancer detection using thermographic images. The proposed model integrates CNN featureextraction with attention mechanisms to enhance discriminative thermal regions.
 This repository contains the implementation of an attention-based hybrid CNN model for breast cancer classification using thermographic images.
  Dataset
 BCD Thermography Dataset (private). Images are not shared due to ethical restrictions.
