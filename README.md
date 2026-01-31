@@ -12,7 +12,7 @@ BCD Thermography Dataset (private). Images are not shared due to ethical restric
 
  Results
 - Accuracy: 99.02%
-- AUC: 0.9981
+- AUC: 0.8581
 
 Visualization
 -Learning Curve
